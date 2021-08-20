@@ -1,0 +1,8 @@
+https://leetcode.com/problems/search-in-rotated-sorted-array/ - Get minimum concept.
+https://leetcode.com/problems/h-index-ii/
+https://leetcode.com/problems/longest-increasing-subsequence/ - aware of DP approach (work on binary search approach)
+https://leetcode.com/problems/nth-digit/ 
+https://leetcode.com/problems/132-pattern/ - 
+https://leetcode.com/problems/k-diff-pairs-in-an-array/ - idea of using last occurence element.
+https://leetcode.com/problems/single-element-in-a-sorted-array/ - easy question best but last submission was good.
+https://leetcode.com/problems/most-profit-assigning-work/ - last submission. description
